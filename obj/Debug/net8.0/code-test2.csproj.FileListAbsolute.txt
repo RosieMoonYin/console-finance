@@ -1,0 +1,14 @@
+/Users/salt-dev/code-test2/bin/Debug/net8.0/code-test2
+/Users/salt-dev/code-test2/bin/Debug/net8.0/code-test2.deps.json
+/Users/salt-dev/code-test2/bin/Debug/net8.0/code-test2.runtimeconfig.json
+/Users/salt-dev/code-test2/bin/Debug/net8.0/code-test2.dll
+/Users/salt-dev/code-test2/bin/Debug/net8.0/code-test2.pdb
+/Users/salt-dev/code-test2/obj/Debug/net8.0/code-test2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salt-dev/code-test2/obj/Debug/net8.0/code-test2.AssemblyInfoInputs.cache
+/Users/salt-dev/code-test2/obj/Debug/net8.0/code-test2.AssemblyInfo.cs
+/Users/salt-dev/code-test2/obj/Debug/net8.0/code-test2.csproj.CoreCompileInputs.cache
+/Users/salt-dev/code-test2/obj/Debug/net8.0/code-test2.dll
+/Users/salt-dev/code-test2/obj/Debug/net8.0/refint/code-test2.dll
+/Users/salt-dev/code-test2/obj/Debug/net8.0/code-test2.pdb
+/Users/salt-dev/code-test2/obj/Debug/net8.0/code-test2.genruntimeconfig.cache
+/Users/salt-dev/code-test2/obj/Debug/net8.0/ref/code-test2.dll
